@@ -23,7 +23,7 @@
 					
    <key>url</key>
 					
-   <string>http://www.goodla.com.cn:883/DownLoad/phone/ios/gdlk.ipa</string>
+   <string>http://s8.goodla.com.cn:883/DownLoad/phone/ios/gdlk.ipa</string>
 				
 </dict>
 				
@@ -35,7 +35,7 @@
 					
    <key>url</key>
 					
-   <string>http://www.goodla.com.cn:883/DownLoad/phone/ios/displayImage_gdlk.png</string>
+   <string>http://s8.goodla.com.cn:883/DownLoad/phone/ios/displayImage_gdlk.png</string>
 				
 </dict>
 				
@@ -47,7 +47,7 @@
 					
    <key>url</key>
 					
-   <string>http://www.goodla.com.cn:883/DownLoad/phone/ios/displayImage_goodla.png</string>
+   <string>http://s8.goodla.com.cn:883/DownLoad/phone/ios/displayImage_goodla.png</string>
 				
 </dict>
 			
